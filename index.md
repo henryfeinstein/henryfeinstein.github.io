@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### MUSA 508 Projects
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
