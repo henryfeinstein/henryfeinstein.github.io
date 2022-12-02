@@ -4,7 +4,7 @@
 
 ### MUSA 508 Projects
 
-[Project 1 Title](/sample_page)
+[Allocating a Housing Repair Credit]("C:/Users/henry/Documents/HFdocs/Penn/Fall_2022/MUSA508_PublicPolicyAnalytics/Assignments/HW4/Feinstein_Henry_HW4.html")
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
